@@ -1,0 +1,14 @@
+dependencies:
+  - python
+  - jupyter
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - lxml
+  - pillow
+  - openpyxl
+  - sqlalchemy
