@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeb45c6-49fa-4d3a-bf56-abdac740c8ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/crash_course/02-Python Crash Course Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/crash_course/02-Python Crash Course Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/NumPy_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/NumPy_notebook.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,5 +55,16 @@
       <updated>1767899913427</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/NumPy/NumPy_notebook.ipynb</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
