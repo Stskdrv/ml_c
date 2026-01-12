@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeb45c6-49fa-4d3a-bf56-abdac740c8ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/.ipynb_checkpoints/00-NumPy-Arrays-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/.ipynb_checkpoints/01-NumPy-Indexing-and-Selection-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/.ipynb_checkpoints/02-NumPy-Operations-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/.ipynb_checkpoints/03-NumPy-Exercises-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/.ipynb_checkpoints/04-NumPy-Exercises-Solutions-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/00-NumPy-Arrays.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/01-NumPy-Indexing-and-Selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/02-NumPy-Operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/03-NumPy-Exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/04-NumPy-Exercises-Solutions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/axis_logic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/Numpy_test/numpy_indexing.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NumPy/NumPy_notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/NumPy_notebook.ipynb" afterDir="false" />
     </list>
@@ -31,11 +43,12 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/stan_k/Documents/Py/ml_c"
+    "last_opened_file_path": "/Users/stan_k/Documents/Py/ml_c/NumPy"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NumPy" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
