@@ -7,17 +7,6 @@
     <list default="true" id="7aeb45c6-49fa-4d3a-bf56-abdac740c8ce" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Pandas/00-Series.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pandas/01-DataFrames.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/02-Conditional-Filtering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/03-Useful-Methods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/04-Missing-Data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/05-Groupby-Operations-and-MultiIndex.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/06-Combining-DataFrames.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/07-Text-Methods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/08-Time-Methods.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/09-Inputs-and-Outputs.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/10-Pivot-Tables.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/11-Pandas-Project-Exercise.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/12-Pandas-Project-Exercise-Solution.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pandas/RetailSales_BeerWineLiquor.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pandas/Sales_Funnel_CRM.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pandas/example.csv" afterDir="false" />
