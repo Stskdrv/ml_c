@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aeb45c6-49fa-4d3a-bf56-abdac740c8ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pandas/00-Series.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/01-DataFrames.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/RetailSales_BeerWineLiquor.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/Sales_Funnel_CRM.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/example.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/example.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/hotel_booking_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/movie_scores.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/mpg.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/my_excel_file.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/new_file.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/new_workbook.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/newfile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/reshaping_pivot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/sample_table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas/tips.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/02-Conditional-Filtering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/03-Useful-Methods.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
